@@ -1,0 +1,23 @@
+******************************************
+		Arjailnoid
+				v. 0.9b
+******************************************
+
+Index
+======
+  1. Objectius
+  2. Tecles
+
+1. Objectius
+==============
+
+L'objectiu del joc es trencar tots els taulells per poder passar de fase
+
+2. Tecles
+==============
+
+Flecha dreta    -> Dreta
+Flecha esquerra -> Esquerra
+Espai		-> Dispar/Soltar bola *
+
+* Sols es pot disparar si tens la vara de color roig
